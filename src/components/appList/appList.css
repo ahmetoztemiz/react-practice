@@ -1,0 +1,11 @@
+@import '~antd/dist/antd.css';
+
+.task, .button{
+    display: inline-flex;
+    margin-right: 5px;
+    size: 40px 20px;
+}
+
+.button {
+    font-size: 10px;
+}
